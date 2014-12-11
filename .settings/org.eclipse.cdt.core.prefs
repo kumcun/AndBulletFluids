@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1194810881/CYGWIN/delimiter=;
+environment/project/com.android.toolchain.gcc.1194810881/CYGWIN/operation=replace
+environment/project/com.android.toolchain.gcc.1194810881/CYGWIN/value=E\:\\Android\\android-ndk\\ndk-build.cmd
+environment/project/com.android.toolchain.gcc.1194810881/append=true
+environment/project/com.android.toolchain.gcc.1194810881/appendContributed=true
